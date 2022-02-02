@@ -8,11 +8,11 @@ Pré-Requisitos
 Instalar o axios, styled components e react-router. 
 
 Projeto desenvolvido no Bootcamp da Labenu, com o intuito de praticar o uso do React Router, useEffect,
-useState, Hooks e componentização de pastas. 
+useState, Hooks e componentização de pastas
 
-Projeto criado por instrutores do Bootcamp Labenu. 
+Projeto criado por instrutores do Bootcamp Labenu
 
-- Tecnologias Utilizadas.
+- Tecnologias Utilizadas
 HTML | CSS | REACT.JS | JAVASCRIPT 
 
 - Status do Projeto
