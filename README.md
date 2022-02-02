@@ -12,9 +12,9 @@ useState, Hooks e componentização de pastas
 
 Projeto criado por instrutores do Bootcamp Labenu
 
-- Tecnologias Utilizadas
-HTML | CSS | REACT.JS | JAVASCRIPT 
+Tecnologias Utilizadas
+- HTML | CSS | REACT.JS | JAVASCRIPT 
 
-- Status do Projeto
-Concluído
+Status do Projeto
+- Concluído
 
